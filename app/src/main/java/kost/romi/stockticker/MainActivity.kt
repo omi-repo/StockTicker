@@ -20,6 +20,7 @@ class MainActivity : ComponentActivity() {
                     Greeting("Android")
                     // test
                     // another test
+                    // and another one
                 }
             }
         }
